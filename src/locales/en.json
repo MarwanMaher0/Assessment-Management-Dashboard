@@ -1,0 +1,51 @@
+{
+    "userDetail": {
+        "title": "User Detail",
+        "profile": "Profile",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "birthdate": "Birthdate",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive",
+        "delete": "Delete",
+        "save": "Save",
+        "loading": "Loading..."
+    },
+    "login": {
+        "title": "Sign in",
+        "subtitle": "Enter your email and password to login",
+        "email": "Email",
+        "emailPlaceholder": "Enter Email",
+        "password": "Password",
+        "passwordPlaceholder": "Enter Password",
+        "signIn": "Sign in"
+    },
+    "userList": {
+        "title": "User List",
+        "addUser": "Add User",
+        "active": "Active",
+        "inactive": "Inactive"
+    },
+    "editUser": {
+        "title": "Edit User",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "dob": "Birthdate",
+        "active": "Active",
+        "inactive": "Inactive",
+        "submit": "Submit"
+    },
+    "addUser": {
+        "title": "Add User",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email",
+        "dob": "Birthdate",
+        "active": "Active",
+        "inactive": "Inactive",
+        "submit": "Submit"
+    }
+}
